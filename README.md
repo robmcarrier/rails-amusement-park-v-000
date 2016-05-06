@@ -8,8 +8,6 @@ You're going to be building an amusement park. There will be users, attractions,
 
 ## Instructions
 
-Building this amusement park will require the combination of a lot of the ideas introduced over the last few units.  The instructions are purposely limited.  Use the specs and the demo to drive what you build.
-
 **This lab does not cover validations so please do not use them. If you do, your tests will break.**
 
 * Check out [The Demo](http://amusement-park.herokuapp.com/) to see where this lab is headed.
@@ -30,4 +28,6 @@ Building this amusement park will require the combination of a lot of the ideas 
 
 * [Sessions in Rails](http://guides.rubyonrails.org/security.html#sessions)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-amusement-park' title='Rails Amusement Park'>Rails Amusement Park</a> on Learn.co and start learning to code for free.</p>
+
+<a href='https://learn.co/lessons/rails-amusement-park' data-visibility='hidden'>View this lesson on Learn.co</a>
+>>>>>>> master
